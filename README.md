@@ -6,7 +6,6 @@ The Doa and Dzikir App helps you all to do sunnah and mandatory practices easily
 
 And the features that we present include : 
 - Sunnah Qauliyah and dzikir & doa sholat
-- Dzikir Setiap Saat 
 - Daily Dzikir & Doa
 - Morning and evening dzikir
 - Islami Article 
