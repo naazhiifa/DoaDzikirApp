@@ -1,13 +1,27 @@
-# DoadanDzikirApp
+# Doa & Dzikir App 
 
 ![doa dan dzikir app mockup](https://github.com/naazhiifa/DoadanDzikirApp/assets/110214624/ab6e4c26-e068-48f1-a125-8da6c449f9f7)
 
-The Doa and Dzikir App helps you all to do sunnah and mandatory practices easily, and in this application there are also many features that you can use to make it easier to do your worship anywhere and anytime 🤲🏻
+# 📝 Introduction
+This is my first android project updated version.
 
-And the features that we present include : 
+Doa and Dzikir App is a Kotlin-based mobile application that simplifies to facilitate users in launching their worship anywhere and anytime. With Doa and Dzikir App, you can use the app's various features for optimal use. Whatever you're doing and wherever you are, Doa and Dzikir App enables you to consistently worship from anywhere.
+
+# 🎯 Features
 - Sunnah Qauliyah and dzikir & doa sholat
 - Daily Dzikir & Doa
 - Morning and evening dzikir
-- Islami Article 
+- Islami Article
+
+# 🎖 That participated 
+- Nina Nadia as the first mentor
+- Setianing Budi as the second mentor
+
+# 📩 
+If you have any questions, feedback, please feel free to reach out:
+
+* Email: fildzanazhifautomo@gmail.com
+
+Your feedback is important to me!
 
 Thanks for coming here, Enjoy the app! 🤩
